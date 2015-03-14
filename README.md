@@ -17,8 +17,8 @@ and you should see various links relared to both Models(Bookes,Author).
 
 ###.Test case
 
+run following command to execute the testcases
 
 ```
-run following command to execute the testcases
 [cd nodejs]
 [mocha]
